@@ -1,0 +1,19 @@
+/* .red-shit{ */
+
+body{
+   margin: 0; 
+   padding: auto;
+/* background-position: center; */
+}
+
+.noodles{
+  justify-content: right;
+}
+
+.indomie{
+  background-color: rgb(110, 132, 194);
+}
+
+form{
+  display: flex;
+}
