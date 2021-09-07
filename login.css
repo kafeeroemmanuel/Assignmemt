@@ -1,19 +1,14 @@
-/* .red-shit{ */
 
-body{
-   margin: 0; 
-   padding: auto;
-/* background-position: center; */
-}
 
-.noodles{
-  justify-content: right;
-}
 
-.indomie{
-  background-color: rgb(110, 132, 194);
-}
 
-form{
-  display: flex;
+.parineers{
+  width: 18rem;
+  height: 14rem;
+  border-radius: 6px;
+  margin: 5px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 3;
 }
